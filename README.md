@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng4Qyx/giphy.gif" width="25px"> Welcome to codex420's Developer Space
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng4Qyx/giphy.gif" width="25px"> Welcome to Rajib Ratan Koley's Developer Space
 
 > **Crafting scalable, elegant solutions that power real-world applications**
 
@@ -270,7 +270,7 @@ I'm always open to discussing innovative projects, technical challenges, or coll
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sougotokoley%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sougotokoley@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rajibkoley1999%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajibkoley1999@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-codex420-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codex420)
 
 </div>
@@ -285,6 +285,6 @@ I'm always open to discussing innovative projects, technical challenges, or coll
 
 **Let's build something amazing together.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=codex420&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=rajibkoley1999&color=blueviolet&style=flat-square)
 
 </div>
